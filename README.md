@@ -1,0 +1,2 @@
+# PostcodeParser
+A postcode is a combination of between five and seven letters/numbers. Each postcode consists of two parts. The first part is the outward postcode. This is separated by with or without spaces from the second part, which is the  inward postcode. The outward postcode enables mail to be sent to the correct local area for delivery whereas the  inward code assists in the delivery of post within a postal district.
