@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFX_PostCode_Parser", "FFX_PostCode_Parser.csproj", "{AF3D410E-CFD0-4342-A2D7-7651A0B0A5A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFX_PostCode_Parser_UnitTest", "..\FFX_PostCode_Parser_UnitTest\FFX_PostCode_Parser_UnitTest.csproj", "{026B2C2A-6097-4A4E-B54E-BB79F9476406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3D410E-CFD0-4342-A2D7-7651A0B0A5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3D410E-CFD0-4342-A2D7-7651A0B0A5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF3D410E-CFD0-4342-A2D7-7651A0B0A5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF3D410E-CFD0-4342-A2D7-7651A0B0A5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026B2C2A-6097-4A4E-B54E-BB79F9476406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026B2C2A-6097-4A4E-B54E-BB79F9476406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026B2C2A-6097-4A4E-B54E-BB79F9476406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026B2C2A-6097-4A4E-B54E-BB79F9476406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6439CC6B-1418-48F5-9982-F0C3F38112A0}
+	EndGlobalSection
+EndGlobal

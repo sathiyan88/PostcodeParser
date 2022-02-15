@@ -1,0 +1,7 @@
+C:\Users\sathiyan.s\Desktop\FFX\FFX_PostCode_Parser\bin\Debug\FFX_PostCode_Parser.exe.config
+C:\Users\sathiyan.s\Desktop\FFX\FFX_PostCode_Parser\bin\Debug\FFX_PostCode_Parser.exe
+C:\Users\sathiyan.s\Desktop\FFX\FFX_PostCode_Parser\bin\Debug\FFX_PostCode_Parser.pdb
+C:\Users\sathiyan.s\Desktop\FFX\FFX_PostCode_Parser\obj\Debug\FFX_PostCode_Parser.csprojAssemblyReference.cache
+C:\Users\sathiyan.s\Desktop\FFX\FFX_PostCode_Parser\obj\Debug\FFX_PostCode_Parser.csproj.CoreCompileInputs.cache
+C:\Users\sathiyan.s\Desktop\FFX\FFX_PostCode_Parser\obj\Debug\FFX_PostCode_Parser.exe
+C:\Users\sathiyan.s\Desktop\FFX\FFX_PostCode_Parser\obj\Debug\FFX_PostCode_Parser.pdb
